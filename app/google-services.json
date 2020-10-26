@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "916552224766",
+    "firebase_url": "https://picshare-6b678.firebaseio.com",
+    "project_id": "picshare-6b678",
+    "storage_bucket": "picshare-6b678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916552224766:android:352bd47941c2c737a2baaf",
+        "android_client_info": {
+          "package_name": "com.pinniboina.picshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916552224766-ljio996pes7hucrc98cro88d6svdgevl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZC-o4M3LqPlvK4kZo8lASniM_Jqwv-ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916552224766-ljio996pes7hucrc98cro88d6svdgevl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916552224766:android:371c27a81cba3811a2baaf",
+        "android_client_info": {
+          "package_name": "com.pinniboina.telshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916552224766-ljio996pes7hucrc98cro88d6svdgevl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZC-o4M3LqPlvK4kZo8lASniM_Jqwv-ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916552224766-ljio996pes7hucrc98cro88d6svdgevl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
